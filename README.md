@@ -20,12 +20,18 @@ This project is a personalized chatbot built with Streamlit, utilizing FAISS for
 
 ## Requirments
 
-Python 3.x
-Streamlit
-FAISS (CPU/GPU)
-Sentence-Transformers
-Langchain
-JSON
+Python 3.x,
+Streamlit,
+FAISS (CPU/GPU),
+Sentence-Transformers,
+Langchain,
+JSON,
 
-Use Ollama to install DeepSeek r1 model.
+-Use Ollama to install DeepSeek r1 model.
+
+##Video
+
+Watch the Video to see the practical use. It may slow because of my hardware.
+
+[![Watch the Video](https://youtu.be/MVhq__CLpJE)]
 
