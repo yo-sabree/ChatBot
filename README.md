@@ -27,11 +27,11 @@ Sentence-Transformers,
 Langchain,
 JSON,
 
--Use Ollama to install DeepSeek r1 model.
+Use Ollama to install DeepSeek r1 model.
 
-##Video
+## Video
 
 Watch the Video to see the practical use. It may slow because of my hardware.
 
-[![Watch the Video](https://youtu.be/MVhq__CLpJE)]
+[![Watch the Video](![image](https://github.com/user-attachments/assets/ac075c86-08b3-467d-999e-790b91209bd4)](https://youtu.be/MVhq__CLpJE)
 
